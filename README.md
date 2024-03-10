@@ -1,1 +1,1 @@
-# -Dxin00-Find-a-repository-goitneo-python-hw-3-MCS5
+goitneo-python-hw-2-MCS5
